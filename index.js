@@ -1,6 +1,6 @@
 const http = require('http');
 
-const hostname = process.env.hostname || '192.168.0.143';
+const hostname = process.env.hostname || '0.0.0.0';
 const port = process.env.PORT || 3000;
 
 const server = http.createServer((req, res) => {
