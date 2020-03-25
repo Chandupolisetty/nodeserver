@@ -1,5 +1,5 @@
 {
-    "name": "node_server",
+    "name": "nodeserver",
     "version": "1.0.0",
     "description": "This repository show case a node server",
     "main": "index.js",
@@ -8,12 +8,12 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/jscodebit/node-server.git"
+      "url": "https://chandupolisetty.github.io/nodeserver/"
     },
     "author": "Chandrakanth Polisetty",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/jscodebit/node-server/issues"
+      "url": "https://chandupolisetty.github.io/nodeserver/issues"
     },
-    "homepage": "https://github.com/jscodebit/node-server#readme"
+    "homepage": "https://chandupolisetty.github.io/nodeserver#readme"
   }
